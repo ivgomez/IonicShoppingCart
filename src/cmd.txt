@@ -1,0 +1,15 @@
+ionic g page carrito
+ionic g page categorias
+ionic g page login
+ionic g page ordenes
+ionic g page ordenesDetalle
+ionic g page porCategorias
+ionic g page producto
+ionic g page tabs
+
+ionic g provider carrito
+ionic g provider productos
+ionic g provider usuario
+
+ionic g pipe imagen
+ionic g page busqueda
